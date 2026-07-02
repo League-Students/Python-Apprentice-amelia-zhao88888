@@ -14,7 +14,7 @@ import turtle                           # Tell Python we want to work with the t
 turtle.setup(600, 600, 0, 0)            # Set the size of the window
 tina = turtle.Turtle()                  # Create a turtle named tina
 tina.forward(80)
-tina.left(250)
+tina.left(247)
 tina.forward(80)
 tina.left(236)
 tina.forward(80)
