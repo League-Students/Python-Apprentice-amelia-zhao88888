@@ -17,7 +17,7 @@ tina.forward(82)
 tina.pencolor('green')
 tina.left(240)
 tina.forward(82)
-tina.pencoilor
+tina.pencolor('blue')
 tina.left(240)
 tina.forward(82)
 # Use tina.forward() and tina.left() to draw a triangle
