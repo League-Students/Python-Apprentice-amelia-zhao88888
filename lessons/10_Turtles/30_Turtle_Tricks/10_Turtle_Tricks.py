@@ -13,11 +13,11 @@ Refer to previous turtle programs for examples of how to use these commands.
 import turtle                           # Tell Python we want to work with the turtle
 turtle.setup(600, 600, 0, 0)            # Set the size of the window
 tina = turtle.Turtle()                  # Create a turtle named tina
-tina.forward(80)
+tina.forward(82)
 tina.left(247)
-tina.forward(80)
-tina.left(236)
-tina.forward(80)
+tina.forward(82)
+tina.left(238)
+tina.forward(82)
 # Use tina.forward() and tina.left() to draw a triangle
 # Make each side of the triangle a different color with 
 # tina.pencolor()
