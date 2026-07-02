@@ -20,4 +20,8 @@ tina = turtle.Turtle()                  # Create a turtle named tina
 import turtle
 ... # Your code here
 tina = turtle.Turtle()   
-turtle.exitonclick()                    # Close the window when we click on it
+
+turtle.exitonclick()  
+
+
+                  # Close the window when we click on it
