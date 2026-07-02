@@ -16,8 +16,7 @@ tina = turtle.Turtle()                  # Create a turtle named tina
 tina.forward(80)
 tina.left(60)
 tina.forward(80)
-tina.left(60)
-# Use tina.forward() and tina.left() to draw a triangle
+tina.left# Use tina.forward() and tina.left() to draw a triangle
 # Make each side of the triangle a different color with 
 # tina.pencolor()
 
